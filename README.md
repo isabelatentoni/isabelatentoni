@@ -1,16 +1,13 @@
-## Hi there 👋
+## Bem vindos ao meu perfil 💛
 
-<!--
-**isabelatentoni/isabelatentoni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Olá programador! Meu nome é Isabela
+- Estudo a linguagem de JavaScript no [Alura](https://www.alura.com.br)
+- Coemcei estudar JavaScript recentemente e desejo me aprofundar mais na área, trazendo diversos projetos incríveis.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  ## Entre em contato comigo 📪
+
+  isabela.tentoni.martins@gmail.com
+
+![](https://media1.tenor.com/m/4dlAuFzcLH8AAAAC/pepe-apu.gif)  
+  
