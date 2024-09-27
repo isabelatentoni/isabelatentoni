@@ -3,7 +3,7 @@
 
 Olá programador! Meu nome é Isabela
 - Estudo a linguagem de JavaScript no [Alura](https://www.alura.com.br)
-- Coemcei estudar JavaScript recentemente e desejo me aprofundar mais na área, trazendo diversos projetos incríveis.
+- Comecei estudar JavaScript recentemente e desejo me aprofundar mais na área, trazendo diversos projetos incríveis.
 
   ## Entre em contato comigo 📪
 
